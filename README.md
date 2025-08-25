@@ -6,7 +6,7 @@ The trained model is deployed on **Streamlit** for interactive use.
 ---
 
 ## 🌐 Live App
-👉 [Click here to try the app](https://your-streamlit-link.streamlit.app)
+👉 [Click here to try the app](https://24-08-25-bstowilzbuftwmkk2btxxa.streamlit.app/)
 
 No setup required. Just open the link and explore.
 
@@ -22,8 +22,8 @@ No setup required. Just open the link and explore.
 ## 📷 Screenshots
 
 ### 🔹 Streamlit Frontend
-<img width="1309" height="719" alt="image" src="https://github.com/user-attachments/assets/1aaa68d0-4e4a-4713-80d9-18899f75d9b3" />
-<img width="1200" height="794" alt="image" src="https://github.com/user-attachments/assets/ff75f382-d243-4c1f-8de2-0f114d93f26d" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/1aaa68d0-4e4a-4713-80d9-18899f75d9b3" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/ff75f382-d243-4c1f-8de2-0f114d93f26d" />
 
 
 ### 🔹 Confusion Matrix (RBF Kernel)
